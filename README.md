@@ -1,3 +1,1 @@
-# hello-world
-
-Hi Humans
+Interactive HTML: This is an example of an interactive website. Krashen's comprehensible input concept suggests that we can learn language when we are provided with input we can comprehend. This is a similar concept to Vygotsky's zone of proximal development. Visible learning occurs when learners are provided with direct feedback. Digital technology provides fast and accurate feedback; faster than is humanly possible. Research suggests young language learners find interactive avatars of their language teacher engaging.
